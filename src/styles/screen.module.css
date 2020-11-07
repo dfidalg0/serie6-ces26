@@ -1,0 +1,27 @@
+.root {
+    background-color: #00000093;
+    width: 200pt;
+    height: 60pt;
+    border-radius: 5pt 5pt 0px 0px;
+    margin-top: 50pt;
+    overflow-wrap: break-word;
+}
+
+.display {
+    height: 40%;
+    display: flex;
+    font-size: 20pt;
+    color: white;
+    justify-content: flex-end;
+    padding-right: 15pt;
+    padding-top: 10pt;
+}
+
+.preview {
+    height: 50%;
+    display: flex;
+    font-size: 11pt;
+    color: #ffffff91;
+    justify-content: flex-end;
+    padding-right: 15pt;
+}

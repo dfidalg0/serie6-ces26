@@ -1,0 +1,16 @@
+.key {
+    background-color: rgb(74, 138, 197);
+    color: #b4f5f2;
+    border: 0px;
+    width: 50pt;
+    height: 50pt;
+    font-size: 18pt;
+}
+
+.key:focus {
+    outline: none;
+}
+
+.key:hover {
+    border: 1px solid cyan;
+}
